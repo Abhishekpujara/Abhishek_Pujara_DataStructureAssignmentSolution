@@ -11,7 +11,7 @@ c) The floor with the smaller size must be placed at the top of the building.
 Note: A floor cannot be assembled in the building until all floors larger in size are placed.
 As a friend he wants you to build a small program that will help him analyze the construction
 process, to avoid manual work and errors.
-==========================================================================================================================================================================
+=========================================================================================================================================================================
 
 Question-2
 ----------
